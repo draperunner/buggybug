@@ -1,0 +1,12 @@
+{
+  "name": "buggybug",
+  "version": "1.0.0",
+  "description": "A flawless package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mats Byrkjeland",
+  "license": "MIT"
+}
